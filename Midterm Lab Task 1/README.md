@@ -1,6 +1,5 @@
 # Midterm Lab Task 1 - Data Cleaning Using Excel
-For this task we are given a Dirty data from Excel and we are tasked to perform Data Cleaning and Preparation using Excel
-## Data Cleaning Process
+In this lab activity, I worked on cleaning and preparing a messy dataset in Excel. The goal was to make the data organized and accurate by following these steps:## Data Cleaning Process
 - Open the raw file
 - Trim extra spaces
 - Adjust column and row width and height for better readability
