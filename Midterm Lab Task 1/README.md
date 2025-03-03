@@ -20,4 +20,4 @@ For this task we are given a Dirty data from Excel and we are tasked to perform 
 ## Here's the screenshot of my output before after I started data cleaning (See screenshot
 ![Sample Output](images/After1.png)
 ## Here's the Physical Data Model
-![Sample Output](images/PhysicalDataModel.png)
+![Sample Output](images/PhysicalDataModel.jpg)
