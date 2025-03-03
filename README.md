@@ -6,8 +6,6 @@ This portfolio shows my skills in data cleaning, organizing, and analyzing using
 - Elementary: Sto. Rosario Elementary School 
 - Highschool & Senior High School: Holy Angel University 
 - College: City College of Angeles (BSIS)
-## Projects I'm Most Proud Of
-- One of my best projects was using SQL to create and improve database queries. This helped me get and manage data more easily. It was a great experience that taught me more about databases and how they are used in real life. Another project I am proud of was cleaning data. I used Excel and Python to fix messy data and make it neat and organized. This made the data more accurate and useful for making good decisions.
 
 ## Project Links 
 - Midterm Lab Task 1 [Data Cleaning and Using Excel](Midterm%20Lab%20Task%201/README.md)
