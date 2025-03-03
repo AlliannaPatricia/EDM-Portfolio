@@ -18,5 +18,6 @@ For this task we are given a Dirty data from Excel and we are tasked to perform 
 ## Here's the screenshot of my output before I started data cleaning (See screenshot
 ![Sample Output](images/One.png)
 ## Here's the screenshot of my output before after I started data cleaning (See screenshot
+![Sample Output](images/After1.png)
 
 
