@@ -8,5 +8,5 @@ Describe the Portfolio
 - Midterm Lab Task 2 [Data Cleaning and Using Excel]
 
 ## Here's the screenshot of my output before I started data cleaning (See screenshot
-![Sample Output](images/LabOne.png)
+![Sample Output](images/LabOne.JPG)
 ## Here's the screenshot of my output before after I started data cleaning (See screenshot
