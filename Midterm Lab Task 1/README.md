@@ -16,7 +16,7 @@ For this task we are given a Dirty data from Excel and we are tasked to perform 
 - Copy the normalized values back into the original data
 - Drag down to apply the changes based on the new normalized sheet
 ## Here's the screenshot of my output before I started data cleaning (See screenshot
-![Sample Output](Midterm%20Lab%20Task%201/images/One.png)
+![Sample Output](Midterm%20Lab%20Task%201/images/LabOne.png)
 ## Here's the screenshot of my output before after I started data cleaning (See screenshot
 
 
