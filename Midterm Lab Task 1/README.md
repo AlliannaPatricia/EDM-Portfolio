@@ -17,6 +17,6 @@ In this lab activity, I worked on cleaning and preparing a messy dataset in Exce
 ## Here's the screenshot of my output before I started data cleaning (See screenshot
 ![Sample Output](images/One.png)
 ## Here's the screenshot of my output before after I started data cleaning (See screenshot
-![Sample Output](images/Onee.png)
+![Sample Output](images/Onee.PNG)
 ## Here's the Physical Data Model
 ![Sample Output](images/PhysicalDataModel.jpg)
