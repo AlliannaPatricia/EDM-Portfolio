@@ -15,7 +15,7 @@ In this lab activity, I worked on cleaning and preparing a messy dataset in Exce
 - Copy the normalized values back into the original data
 - Drag down to apply the changes based on the new normalized sheet
 ## Here's the screenshot of my output before I started data cleaning (See screenshot
-![Sample Output](images/One.png)
+![Sample Output](images/Onee.png)
 ## Here's the screenshot of my output before after I started data cleaning (See screenshot
 ![Sample Output](images/After1.png)
 ## Here's the Physical Data Model
