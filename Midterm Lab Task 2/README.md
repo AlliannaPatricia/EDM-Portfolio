@@ -1,4 +1,4 @@
 # Midterm Lab Task 2 - Data Cleaning and Transformation using POWER QUERY
-In this lab, Company X wants to find useful information from the UncleanedDSJobs.csv file, which comes from a job posting site on Kaggle. There are many columns in the dataset, but we will focus only on the important ones to answer specific questions. The goal is to clean and analyze the data to find patterns and gain helpful insights about job postings.
+In this lab, I worked on cleaning and organizing a messy dataset using Excel's Power Query. The dataset, Uncleaned_DS_Jobs.csv, was taken from a job posting site on Kaggle. The goal was to extract useful insights by performing data cleaning and transformation tasks.
 
 
