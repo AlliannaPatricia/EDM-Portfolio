@@ -11,6 +11,6 @@ In this lab, I worked on cleaning and organizing a messy dataset using Excel's P
 - Merged state abbreviations with full names for better readability.
 - Standardized salary figures by converting them into thousands.
 ## Here's the screenshot of my output before I started data cleaning (See screenshot
-![Sample Output](images/One.png)
+![Sample Output](images/lab2before.png)
 ## Here's the screenshot of my output before after I started data cleaning (See screenshot
 ![Sample Output](images/Onee.PNG)
