@@ -13,4 +13,4 @@ In this lab, I worked on cleaning and organizing a messy dataset using Excel's P
 ## Here's the screenshot of my output before I started data cleaning (See screenshot
 ![Sample Output](images/lab2before.png)
 ## Here's the screenshot of my output before after I started data cleaning (See screenshot
-![Sample Output](images/Onee.PNG)
+![Sample Output](images/lab2after.png)
