@@ -14,3 +14,6 @@ In this lab, I worked on cleaning and organizing a messy dataset using Excel's P
 ![Sample Output](images/lab2before.png)
 ## Here's the screenshot of my output before after I started data cleaning (See screenshot
 ![Sample Output](images/lab2after.png)
+## Here's the screenshot of my Query Dependencies
+![Sample Output](images/querydependencies.png)
+
