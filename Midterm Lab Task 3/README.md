@@ -24,6 +24,6 @@ In this lab, I worked on organizing and showing data using Pivot Tables and a Da
 - Slicers and Filters
 ![Sample Output](images/slicers.png)
 - Map
-![Sample Output](images/slicers.png)
+![Sample Output](images/map.png)
 - Here's the Final Dashboard Output
 ![Sample Output](images/querydependencies.png)
