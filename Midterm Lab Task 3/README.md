@@ -20,10 +20,10 @@ In this lab, I worked on organizing and showing data using Pivot Tables and a Da
 ![Sample Output](images/lab2before.png)
 ## Here's the screenshot of my output before after I started creating pivot tables and charts (See screenshot)
 - Pivot Table for each analysis
-![Sample Output](images/pivottables.png)
+- ![Sample Output](images/pivottables.png)
 - Slicers and Filters
-![Sample Output](images/slicers.png)
+- ![Sample Output](images/slicers.png)
 - Map
-![Sample Output](images/map.png)
+- ![Sample Output](images/map.png)
 - Here's the Final Dashboard Output
-![Sample Output](images/finaldashboard.png)
+- ![Sample Output](images/finaldashboard.png)
