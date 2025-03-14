@@ -17,7 +17,7 @@ In this lab, I worked on organizing and showing data using Pivot Tables and a Da
 - Used a map chart (Excel 2019 and above) to show salaries by state.
 - Designed the dashboard to look clean and easy to read.
 ## Here's the screenshot of my output before I started creating pivot tables and charts (See screenshot)
-![Sample Output](images/lab2before.png)
+![Sample Output](images/before.PNG)
 ## Here's the screenshot of my output before after I started creating pivot tables and charts (See screenshot)
 - Pivot Table for each analysis
 
