@@ -10,5 +10,13 @@ In this lab activity, I worked on making a database for a company that has many 
   - Set PRIMARY KEY and FOREIGN KEY for relationships.
 - Checked the table structures
   - Used DESCRIBE or viewed the structure in phpMyAdmin to review the design of each table.
-
-
+## Here's the screenshot of my output for the Employees table (See screenshot)
+![Sample Output](images/.png)
+## Here's the screenshot of my output for the Departments table (See screenshot)
+![Sample Output](images/.PNG)
+## Here's the screenshot of my output for the Employee Departments table (See screenshot)
+![Sample Output](images/.PNG)
+## Here's the screenshot of my output for the Employee Projects table (See screenshot)
+![Sample Output](images/.PNG)
+## Here's the screenshot of my output for the Managers table (See screenshot)
+![Sample Output](images/.PNG)
