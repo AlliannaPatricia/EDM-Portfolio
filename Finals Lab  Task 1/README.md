@@ -13,7 +13,7 @@ In this lab activity, I worked on making a database for a company that has many 
 ## Here's the screenshot of my output for the Employees table (See screenshot)
 ![Sample Output](images/employees.png)
 ## Here's the screenshot of my output for the Departments table (See screenshot)
-![Sample Output](images/departments_table.png)
+![Sample Output](images/departments.png)
 ## Here's the screenshot of my output for the Employee Departments table (See screenshot)
 ![Sample Output](images/employee_departments.png)
 ## Here's the screenshot of my output for the Employee Projects table (See screenshot)
