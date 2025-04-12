@@ -11,12 +11,12 @@ In this lab activity, I worked on making a database for a company that has many 
 - Checked the table structures
   - Used DESCRIBE or viewed the structure in phpMyAdmin to review the design of each table.
 ## Here's the screenshot of my output for the Employees table (See screenshot)
-![Sample Output](images/.png)
+![Sample Output](images/employees.png)
 ## Here's the screenshot of my output for the Departments table (See screenshot)
-![Sample Output](images/.PNG)
+![Sample Output](images/departments_table.png)
 ## Here's the screenshot of my output for the Employee Departments table (See screenshot)
-![Sample Output](images/.PNG)
+![Sample Output](images/employee_departments.png)
 ## Here's the screenshot of my output for the Employee Projects table (See screenshot)
-![Sample Output](images/.PNG)
+![Sample Output](images/employee_projects.png)
 ## Here's the screenshot of my output for the Managers table (See screenshot)
-![Sample Output](images/.PNG)
+![Sample Output](images/Managers.png)
