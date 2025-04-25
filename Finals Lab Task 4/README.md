@@ -14,7 +14,7 @@ Here are the steps I followed:
 - Checked the output
   - Used SELECT statements to display the correct output for each task.
   - Verified that the queries returned the correct data from the courses table. 
-## Here's the screenshot of my output for Task 1(See screenshot)
+## Here's the screenshot of my output for Task 1 (See screenshot)
 ![Sample Output](images/task1.PNG)
 ## Here's the screenshot of my output for Task 2 (See screenshot)
 ![Sample Output](images/task2.PNG)
