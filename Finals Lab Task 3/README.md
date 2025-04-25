@@ -14,12 +14,12 @@ Here are the steps I followed:
 - Exported the updated ER Diagram
   - Used phpMyAdmin or MySQL Workbench to generate the new ER Diagram or relational schema after the changes.
 ## Here's the screenshot of my output for Task 1(See screenshot)
-![Sample Output](images/products.png)
+![Sample Output](images/products.PNG)
 ## Here's the screenshot of my output for Task 2 (See screenshot)
-![Sample Output](images/check.png)
+![Sample Output](images/check.PNG)
 ## Here's the screenshot of my output for the Task 3 (See screenshot)
-![Sample Output](images/products1.png)
+![Sample Output](images/products1.PNG)
 ## Here's the screenshot of my output for the Task 4 (See screenshot)
-![Sample Output](images/modify.png)
+![Sample Output](images/modify.PNG)
 ## Here's the screenshot of my output for the ER Diagram/Relational Schema (See screenshot)
-![Sample Output](images/erdiagram.png)
+![Sample Output](images/erdiagram.PNG)
