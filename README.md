@@ -1,7 +1,8 @@
 # EDM Portfolio
 This portfolio shows my skills in data cleaning, organizing, and analyzing using Excel. Through different lab activities, I have learned how to make data clear, correct, and easy to use. These activities helped me improve my skills in fixing errors, sorting data, and preparing information for analysis.
 ## About Me 
-- Hi! I'm Allianna Patricia David, a 1st-year Bachelor of Science in Information Systems student. I am interested in technology, data, and problem-solving. I enjoy learning new skills that can help me understand how systems and data work.
+- Hi! My name is Allianna Patricia David, and I’m a 1st-year college student taking up Bachelor of Science in Information Systems. I chose this course because I’m interested in how technology and data work together to solve real problems. So far, I’ve been learning how to use Microsoft Excel and MySQL Workbench to work with data. In Excel, I’ve practiced organizing information, fixing errors, and using formulas to clean and analyze data. These tasks helped me understand how to prepare data properly before making decisions or creating reports. I also enjoy using MySQL Workbench, where I learned how to create databases, build tables, and write SQL queries to get specific information. This tool helps me understand how data is stored and how different parts of a system connect with each other. It also trained me to think more logically and clearly when working with information. Even though I’m still at the beginning of my journey, I’m excited to keep learning and improving. I believe that the skills I gain in Excel and MySQL Workbench will be a strong foundation for my future in the tech world. Let me know if you want to add specific tasks you did in Excel or SQL, or turn this into something more visual for a digital portfolio!
+
 ## Education
 - Elementary: Sto. Rosario Elementary School 
 - Highschool: Holy Angel University 
