@@ -21,6 +21,8 @@ Here are the steps I followed:
   - Used SELECT to call the stored function and display results. 
 ## Here's the screenshot of my output for Task 1 - View products from 2002 onwards (See screenshot)
 ![Sample Output](images/step1.png)
+## Here's the screenshot of my output for Task 2 - Products priced between 100 and 150 (See screenshot)
+![Sample Output](images/step2.png)
 ## Here's the screenshot of my output for Task 3 - View total price of products by specific vendors (See screenshot)
 ![Sample Output](images/step3.png)
 ## Here's the screenshot of my output for Task 4 - Stored Procedure updating vendor name (See screenshot)
