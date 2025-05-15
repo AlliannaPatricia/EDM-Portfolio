@@ -20,10 +20,10 @@ Here are the steps I followed:
   - Used CALL to run the stored procedure and verify the update.
   - Used SELECT to call the stored function and display results. 
 ## Here's the screenshot of my output for Task 1 - View products from 2002 onwards (See screenshot)
-![Sample Output](images/step1.PNG)
+![Sample Output](images/step1.png)
 ## Here's the screenshot of my output for Task 3 - View total price of products by specific vendors (See screenshot)
-![Sample Output](images/step3.PNG)
+![Sample Output](images/step3.png)
 ## Here's the screenshot of my output for Task 4 - Stored Procedure updating vendor name (See screenshot)
-![Sample Output](images/step4.PNG)
+![Sample Output](images/step4.png)
 ## Here's the screenshot of my output for Task 5 - Stored Function returning product descriptions and prices (See screenshot)
-![Sample Output](images/step5.PNG)
+![Sample Output](images/step5.png)
