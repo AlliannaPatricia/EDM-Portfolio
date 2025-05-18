@@ -18,4 +18,4 @@ This portfolio shows my skills in data cleaning, organizing, and analyzing using
 - Finals Lab Task 2 [Transform ER into Relational tables](https://AlliannaPatricia.github.io/FLT2)
 - Finals Lab Task 3 [Table Manipulation](https://AlliannaPatricia.github.io/FLT3)
 - Finals Lab Task 4 [Using SELECT CLAUSE](https://AlliannaPatricia.github.io/FLT4)
-- Finals Lab Task 5 [Using SQL views and Stored Procedures and Stored Functions](https://github.com/AlliannaPatricia/FLT5)
+- Finals Lab Task 5 [Using SQL views and Stored Procedures and Stored Functions](https://AlliannaPatricia.github.io/FLT5)
