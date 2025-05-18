@@ -9,14 +9,14 @@ This portfolio shows my skills in data cleaning, organizing, and analyzing using
 - College: City College of Angeles (BSIS)
 
 ## Midterm Lab Tasks
-Midterm Lab Task 1 [Data Cleaning and Using EXCEL](https://github.com/AlliannaPatricia/EDM-Portfolio/tree/main/Finals%20Lab%20%20Task%201/READ.ME.md)
-Midterm Lab Task 2 [Data Cleaning and Preparation using POWER QUERY](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%202/README.md)
-Midterm Lab Task 3 [Creating PIVOT TABLE and DASHBOARD](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%203/README.md)
+- Midterm Lab Task 1 [Data Cleaning and Using EXCEL](https://github.com/AlliannaPatricia/EDM-Portfolio/tree/main/Finals%20Lab%20%20Task%201/READ.ME.md)
+- Midterm Lab Task 2 [Data Cleaning and Preparation using POWER QUERY](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%202/README.md)
+- Midterm Lab Task 3 [Creating PIVOT TABLE and DASHBOARD](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%203/README.md)
 
 ## Finals Lab Tasks
-Finals Lab Task 1 [Multi Level Company](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Finals%20Lab%20Task%201/README.md)
-Finals Lab Task 2 [Transform ER into Relational tables](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Finals%20Lab%20Task%202/README.md)
-Finals Lab Task 3 [Table Manipulation](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Finals%20Lab%20Task%203/README.md)
-Finals Lab Task 4 [Using SELECT CLAUSE](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Finals%20Lab%20Task%204/README.md)
-Finals Lab Task 5 [Using SQL views and Stored Procedures and Stored Functions](https://github.com/AlliannaPatricia/EDM-Portfolio/tree/main/Finals%20Lab%20Task%205/README.md)
+- Finals Lab Task 1 [Multi Level Company](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Finals%20Lab%20Task%201/README.md)
+- Finals Lab Task 2 [Transform ER into Relational tables](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Finals%20Lab%20Task%202/README.md)
+- Finals Lab Task 3 [Table Manipulation](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Finals%20Lab%20Task%203/README.md)
+- Finals Lab Task 4 [Using SELECT CLAUSE](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Finals%20Lab%20Task%204/README.md)
+- Finals Lab Task 5 [Using SQL views and Stored Procedures and Stored Functions](https://github.com/AlliannaPatricia/EDM-Portfolio/tree/main/Finals%20Lab%20Task%205/README.md)
 fi(https://github.com/AlliannaPatricia/EDM-Portfolio/tree/main/Finals%20Lab%20%20Task%201)
