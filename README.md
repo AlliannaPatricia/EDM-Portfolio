@@ -8,11 +8,16 @@ This portfolio shows my skills in data cleaning, organizing, and analyzing using
 - Senior High School: Holy Angel University 
 - College: City College of Angeles (BSIS)
 
-## Project Links 
-- Midterm Lab Task 1 [Data Cleaning and Using EXCEL](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%201/README.md)
-- Midterm Lab Task 2 [Data Cleaning and Preparation using POWER QUERY](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%202/README.md)
-- Midterm Lab Task 3 [Creating PIVOT TABLE and DASHBOARD](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%203/README.md)
-- Finals Lab Task 1 [Multi Level Company](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Finals%20Lab%20Task%201/README.md)
-- Finals Lab Task 2 [Transform ER into Relational tables](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Finals%20Lab%20Task%202/README.md)
-- Finals Lab Task 3 [Table Manipulation](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Finals%20Lab%20Task%203/README.md)
-- Finals Lab Task 4 [Using SELECT CLAUSE](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Finals%20Lab%20Task%204/README.md)
+### Midterm Lab Tasks
+
+- [Midterm Lab Task 1](/EDM-Portfolio/task.html?task=MLT1)
+- [Midterm Lab Task 2](/EDM-Portfolio/task.html?task=MLT2)
+- [Midterm Lab Task 3](/EDM-Portfolio/task.html?task=MLT3)
+
+### Finals Lab Tasks
+
+- [Finals Lab Task 1](/EDM-Portfolio/task.html?task=FLT1)
+- [Finals Lab Task 2](/EDM-Portfolio/task.html?task=FLT2)
+- [Finals Lab Task 3](/EDM-Portfolio/task.html?task=FLT3)
+- [Finals Lab Task 4](/EDM-Portfolio/task.html?task=FLT4)
+- [Finals Lab Task 5](/EDM-Portfolio/task.html?task=FLT5)
