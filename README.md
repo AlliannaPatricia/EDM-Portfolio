@@ -19,4 +19,3 @@ This portfolio shows my skills in data cleaning, organizing, and analyzing using
 - Finals Lab Task 3 [Table Manipulation](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Finals%20Lab%20Task%203/README.md)
 - Finals Lab Task 4 [Using SELECT CLAUSE](https://github.com/AlliannaPatricia/EDM-Portfolio/blob/main/Finals%20Lab%20Task%204/README.md)
 - Finals Lab Task 5 [Using SQL views and Stored Procedures and Stored Functions](https://github.com/AlliannaPatricia/EDM-Portfolio/tree/main/Finals%20Lab%20Task%205/README.md)
-fi(https://github.com/AlliannaPatricia/EDM-Portfolio/tree/main/Finals%20Lab%20%20Task%201)
