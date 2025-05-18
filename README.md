@@ -9,13 +9,13 @@ This portfolio shows my skills in data cleaning, organizing, and analyzing using
 - College: City College of Angeles (BSIS)
 
 ## Midterm Lab Tasks
-- Midterm Lab Task 1 [Data Cleaning and Using EXCEL](https://alliannaPatricia.github.io/MLT1/)
-- Midterm Lab Task 2 [Data Cleaning and Preparation using POWER QUERY](https://alliannaPatricia.github.io/MLT2/)
-- Midterm Lab Task 3 [Creating PIVOT TABLE and DASHBOARD](https://alliannaPatricia.github.io/MLT3/)
+- Midterm Lab Task 1 [Data Cleaning and Using EXCEL](https://AlliannaPatricia.github.io/MLT1/)
+- Midterm Lab Task 2 [Data Cleaning and Preparation using POWER QUERY](https://AlliannaPatricia.github.io/MLT2/)
+- Midterm Lab Task 3 [Creating PIVOT TABLE and DASHBOARD](https://AlliannaPatricia.github.io/MLT3/)
   
 ## Finals Lab Tasks
-- Finals Lab Task 1 [Multi Level Company](https://alliannaPatricia.github.io/FLT1/)
-- Finals Lab Task 2 [Transform ER into Relational tables](https://alliannaPatricia.github.io/FLT2/)
-- Finals Lab Task 3 [Table Manipulation](https://alliannaPatricia.github.io/FLT3/)
-- Finals Lab Task 4 [Using SELECT CLAUSE](https://alliannaPatricia.github.io/FLT4/)
-- Finals Lab Task 5 [Using SQL views and Stored Procedures and Stored Functions](https://alliannaPatricia.github.io/FLT4/)
+- Finals Lab Task 1 [Multi Level Company](https://AlliannaPatricia.github.io/FLT1/)
+- Finals Lab Task 2 [Transform ER into Relational tables](https://AlliannaPatricia.github.io/FLT2/)
+- Finals Lab Task 3 [Table Manipulation](https://AlliannaPatricia.github.io/FLT3/)
+- Finals Lab Task 4 [Using SELECT CLAUSE](https://AlliannaPatricia.github.io/FLT4/)
+- Finals Lab Task 5 [Using SQL views and Stored Procedures and Stored Functions](https://AlliannaPatricia.github.io/FLT5/)
